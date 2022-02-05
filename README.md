@@ -1,0 +1,2 @@
+# javaScript
+simple js projects
